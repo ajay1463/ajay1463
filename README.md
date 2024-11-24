@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayh1463&label=Profile%20views&color=0e75b6&style=flat" alt="ajayh1463" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayh1463" alt="ajayh1463" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayh1463" alt="ajay1463" /></a> </p>
 
 - 📫 How to reach me **ajayhegde0797@gmail.com**
 
